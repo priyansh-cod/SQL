@@ -1,4 +1,4 @@
-##FIFA World Cup Analysis
+FIFA World Cup Analysis
 
 This project analyzes data from the FIFA World Cup to provide insights on team performance, player statistics, and match outcomes.
 
@@ -18,8 +18,6 @@ Results
 | 4 | Spain | 11 |
 | 5 | France | 10 |
 
-images/top_teams_goals.png
-
 2. Top 5 Players by Total Goals Scored
 
 | Rank | Player | Team | Total Goals |
@@ -29,8 +27,6 @@ images/top_teams_goals.png
 | 3 | Kylian Mbappé | France | 4 |
 | 4 | Robert Lewandowski | Poland | 3 |
 | 5 | Neymar Jr. | Brazil | 3 |
-
-images/top_players_goals.png
 
 3. Match Outcomes by Team
 
@@ -42,7 +38,6 @@ images/top_players_goals.png
 | Spain | 2 | 3 | 1 |
 | France | 2 | 2 | 2 |
 
-images/match_outcomes.png
 
 Database Schema
 
