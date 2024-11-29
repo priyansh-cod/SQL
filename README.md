@@ -1,12 +1,12 @@
-FIFA World Cup Analysis
+## FIFA World Cup Analysis
 
 This project analyzes data from the FIFA World Cup to provide insights on team performance, player statistics, and match outcomes.
 
-Project Overview
+**Project Overview**
 
 The project uses a SQL database to store and analyze data from the FIFA World Cup. The database includes tables for teams, players, matches, and goals.
 
-Results
+**Results**
 
 1. Top 5 Teams by Total Goals Scored
 
@@ -39,11 +39,11 @@ Results
 | France | 2 | 2 | 2 |
 
 
-Database Schema
+**Database Schema**
 
 The database schema includes the following tables:
 
-Teams
+**Teams**
 
 | Column Name | Data Type |
 | --- | --- |
@@ -51,7 +51,7 @@ Teams
 | team_name | varchar(255) |
 | team_country | varchar(255) |
 
-Players
+**Players**
 
 | Column Name | Data Type |
 | --- | --- |
@@ -60,7 +60,7 @@ Players
 | player_team_id | int |
 | player_position | varchar(255) |
 
-Matches
+**Matches**
 
 | Column Name | Data Type |
 | --- | --- |
@@ -70,7 +70,7 @@ Matches
 | match_team2_id | int |
 | match_result | varchar(255) |
 
-Goals
+**Goals**
 
 | Column Name | Data Type |
 | --- | --- |
@@ -79,7 +79,7 @@ Goals
 | goal_player_id | int |
 | goal_time | int |
 
-SQL Queries
+**SQL Queries**
 
 The following SQL queries were used to generate the results:
 
