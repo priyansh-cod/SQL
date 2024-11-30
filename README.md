@@ -3,8 +3,12 @@
 This project analyzes data from the FIFA World Cup to provide insights on team performance, player statistics, and match outcomes.
 
 **Project Overview**
+Sky Sports Channel's coverage of the FIFA World Cup includes a post-match TV program called "Football Digest: Post Match Analysis". The Football Pundits on the show discusses about the insights and game play as per their expertise and insights derived by the Sports Analyst at the backend. The Sports Analyst is responsible for analyzing data from each match to provide detailed statistics on the program related to the FIFA World Cup in Qatar and hand it over to the presenter and pundits of the "Football Digest: Post Match Analysis". 
 
 The project uses a SQL database to store and analyze data from the FIFA World Cup. The database includes tables for teams, players, matches, and goals.
+
+![sports (1)](https://github.com/user-attachments/assets/9ffde39e-8671-4bc1-ba7c-b1e88f3faf48)
+
 
 **Results**
 
