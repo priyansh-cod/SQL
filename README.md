@@ -10,7 +10,7 @@ The project uses a SQL database to store and analyze data from the FIFA World Cu
 
 1. Top 5 Teams by Total Goals Scored
 
-| Rank | Team | Total Goals |
+ | Rank | Team | Total Goals |
 | --- | --- | --- |
 | 1 | Brazil | 15 |
 | 2 | Germany | 13 |
